@@ -1,15 +1,21 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
+    school: 'PESIT Bengaluru',
+    degree: 'Computer Science Engineering',
+    link: '',
+    year: 2020,
+  },
+  {
+    school: 'Narayana PU College',
+    degree: 'Computer Science ',
+    link: '',
     year: 2016,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Shantiniketan Educational Institutions',
+    degree: 'High School',
+    link: '',
+    year: 2014,
   },
 ];
 
