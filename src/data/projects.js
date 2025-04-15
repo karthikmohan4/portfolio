@@ -1,47 +1,49 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Rean HealthGuru App',
+    subtitle: 'An Patient app',
+    link: 'https://play.google.com/store/apps/details?id=org.reanfoundation.patient',
+    image: '/images/projects/rhg.png',
+    date: '2024-04-16',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'This app provides a one-stop solution for your patients and thereby helping physicians and their staff with streamlined patient management through appointment booking, remote monitoring and records management; it also provides a complete care coordination platform that can be customised by the physicians per patient needs',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    title: 'SenseH Healthcare App',
+    subtitle: 'An Enterprise App for health org. to manage patients, doctor & records.',
+    link: '',
     image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    date: '2025-04-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A App for healthcare hospitals and remote clinics, enabling efficient management of doctors, patients, documents,'
+ + 'and reports. Integrated the app with the senseH health device using Bluetooth Low Energy (BLE) and Wifi to facilitate vital tests for patients.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'Sense SDK',
+    subtitle: 'The Sense SDK is a powerful toolkit that allows developers to seamlessly connect and interact with Sense devices within their Flutter applications.',
+    link: 'https://pub.dev/packages/senseh_sdk.png',
+    image: '/images/projects/sensesdk.png',
+    date: '2024-10-16',
+    desc: 'Developed a Flutter SDK for seamless integration into other Flutter apps, facilitating connectivity with the senseH device via Bluetooth & Wifi.'
+ + 'Implemented various services to enable smooth data transfer between the device and the backend, also incorporated offline storage capabilities during poor internet.',
   },
   {
-    title: 'Cat Detector',
+    title: 'Conversion',
+    subtitle: 'A handy flutter package the helps you in converting',
+    link: 'https://pub.dev/packages/conversion.png',
+    image: '/images/projects/conversion.png',
+    date: '2023-02-20',
+    desc: 'A handy flutter package the helps you in converting Decimal to Hex. Hex to Decimal, Decimal to Binary,Binary to Decimal, Binary to Hex, Hex to Binary, Decimal to Octal, Degrees, Minutes, Seconds to Decimal Degree, Radians to Degree, Complement.',
+  },
+  {
+    title: 'Recipto',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    link: 'https://play.google.com/store/search?q=recipto&c=apps',
+    image: '/images/projects/recipto.png',
+    date: '2022-04-05',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Your day-to-day savings & cashback app. Get benefitted from earning cashback on purchases made anywhere, from physical stores to online apps and third-party platforms. Your every receipt counts to claim cashback from stores',
   },
 ];
 
