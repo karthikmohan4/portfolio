@@ -87,7 +87,7 @@ const EmailLink = ({ loopMessage }) => {
     >
       <a href="mailto:mkarthik556@gmail.com">
         <span>{message}</span>
-        <span>mkarthik556@gmail.com</span>
+        <span>-mkarthik556@gmail.com</span>
       </a>
     </div>
   );

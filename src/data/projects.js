@@ -13,7 +13,7 @@ const data = [
     title: 'SenseH Healthcare App',
     subtitle: 'An Enterprise App for health org. to manage patients, doctor & records.',
     link: '',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/senseh.jpeg',
     date: '2025-04-20',
     desc:
       'A App for healthcare hospitals and remote clinics, enabling efficient management of doctors, patients, documents,'
